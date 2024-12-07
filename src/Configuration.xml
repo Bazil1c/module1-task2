@@ -233,6 +233,7 @@
 			<Enum>ВидыПолов</Enum>
 			<DataProcessor>СигналБедствия</DataProcessor>
 			<DataProcessor>ЛучшиеНаемникиМесяца</DataProcessor>
+			<DataProcessor>ЛюдиВРозыске</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

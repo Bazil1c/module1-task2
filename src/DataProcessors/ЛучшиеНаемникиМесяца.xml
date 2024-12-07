@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<DataProcessor uuid="fdaa4950-03db-4b54-aa01-d163316afcfe">
+	<DataProcessor uuid="17f948de-1ef6-427a-b596-cf7aec2b3257">
 		<InternalInfo>
 			<xr:GeneratedType name="DataProcessorObject.ЛучшиеНаемникиМесяца" category="Object">
-				<xr:TypeId>5467474a-f1b9-48ed-9b0e-93a2b8fa00f1</xr:TypeId>
-				<xr:ValueId>6ad874c2-cc39-45d4-bcd3-fb8676fc434f</xr:ValueId>
+				<xr:TypeId>06d5c738-eabb-485f-8d99-3fb6f01a3ea6</xr:TypeId>
+				<xr:ValueId>737ca6ac-47c5-4dff-9b17-4ebd885747db</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DataProcessorManager.ЛучшиеНаемникиМесяца" category="Manager">
-				<xr:TypeId>5c6d17c5-67cb-4e8a-ae9f-ddb3cb02072a</xr:TypeId>
-				<xr:ValueId>fa31765e-c352-4b4a-9800-eb8d80aadf21</xr:ValueId>
+				<xr:TypeId>9c3b3e04-783d-4c48-a868-3dcc577c7d12</xr:TypeId>
+				<xr:ValueId>81ce23c2-4c3f-4a55-82f2-a3a748c46b4d</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>

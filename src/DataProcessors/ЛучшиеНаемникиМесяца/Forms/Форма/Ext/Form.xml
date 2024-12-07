@@ -63,12 +63,12 @@
 					<ContextMenu name="РейтинговаяТаблицаНаемникКонтекстноеМеню" id="15"/>
 					<ExtendedTooltip name="РейтинговаяТаблицаНаемникРасширеннаяПодсказка" id="16"/>
 				</InputField>
-				<InputField name="РейтинговаяТаблицаВыпоненныхЗаданий" id="17">
-					<DataPath>РейтинговаяТаблица.ВыпоненныхЗаданий</DataPath>
+				<InputField name="РейтинговаяТаблицаВыполненныхЗаданий" id="17">
+					<DataPath>РейтинговаяТаблица.ВыполненныхЗаданий</DataPath>
 					<EditMode>EnterOnInput</EditMode>
 					<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
-					<ContextMenu name="РейтинговаяТаблицаВыпоненныхЗаданийКонтекстноеМеню" id="18"/>
-					<ExtendedTooltip name="РейтинговаяТаблицаВыпоненныхЗаданийРасширеннаяПодсказка" id="19"/>
+					<ContextMenu name="РейтинговаяТаблицаВыполненныхЗаданийКонтекстноеМеню" id="18"/>
+					<ExtendedTooltip name="РейтинговаяТаблицаВыполненныхЗаданийРасширеннаяПодсказка" id="19"/>
 				</InputField>
 				<InputField name="РейтинговаяТаблицаСпасенныхЗаложников" id="20">
 					<DataPath>РейтинговаяТаблица.СпасенныхЗаложников</DataPath>
@@ -113,11 +113,11 @@
 						</v8:StringQualifiers>
 					</Type>
 				</Column>
-				<Column name="ВыпоненныхЗаданий" id="2">
+				<Column name="ВыполненныхЗаданий" id="2">
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
-							<v8:content>Выпоненных заданий</v8:content>
+							<v8:content>Выполненных заданий</v8:content>
 						</v8:item>
 					</Title>
 					<Type>
