@@ -3,21 +3,10 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.КоннекторHTTP" id="26956652-3da1-47e9-9368-19ea8b8e7e1b" configVersion="56a4313860101c46bbbb5cb75cc0189500000000"/>
 		<Metadata name="CommonModule.КоннекторHTTP.Module" id="26956652-3da1-47e9-9368-19ea8b8e7e1b.0" configVersion="0893d27a8406f842a7612509df71a30500000000"/>
-		<Metadata name="Configuration.КоммуникторБазыНаемников" id="f7d4497d-d583-4ad5-98db-79ba9c8d5aa9" configVersion="a38b69a022d1bb4fb367bb8843e8c10100000000"/>
+		<Metadata name="Configuration.КоммуникторБазыНаемников" id="f7d4497d-d583-4ad5-98db-79ba9c8d5aa9" configVersion="758035879b2afa48b2697c6dfcbf76ae00000000"/>
 		<Metadata name="DataProcessor.ЛучшиеНаемникиМесяца" id="17f948de-1ef6-427a-b596-cf7aec2b3257" configVersion="0159c2490260da40bf34a6121699f68400000000"/>
-		<Metadata name="DataProcessor.ЛучшиеНаемникиМесяца.Form.Форма" id="386b9a1a-016b-4ff8-b7f0-7e82c51bebcc" configVersion="f7e70b6f2aad5d49a025013713d13a5f00000000"/>
-		<Metadata name="DataProcessor.ЛучшиеНаемникиМесяца.Form.Форма.Form" id="386b9a1a-016b-4ff8-b7f0-7e82c51bebcc.0" configVersion="e68a775bf43d77419acaf52c5aa3300a00000000"/>
-		<Metadata name="DataProcessor.ЛюдиВРозыске" id="384dc6ed-1fe0-47ba-a56c-4c2a77a5dc0d" configVersion="33be93dad6c7184480199a0bb5c29a2e00000000">
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.ФотоМордыЛица" id="00e48a6b-b137-4274-a0cd-46844c640be8"/>
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.АдресПоследнегоОбнаружения" id="170434f5-150a-45e1-9631-190df9bde674"/>
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.Возраст" id="5cdd321e-1a56-4f9c-8cf0-a7651b366665"/>
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.Погоняло" id="6e2782d1-29bd-46a6-bcef-81d07ea45046"/>
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.Пол" id="bc7071cf-72b3-4faa-9e76-8de3cf185ef2"/>
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.ДатаРождения" id="df798fa6-3ccf-42db-b751-476f814d2945"/>
-			<Metadata name="DataProcessor.ЛюдиВРозыске.Attribute.Идентификатор" id="f388c6ea-7390-427f-aefe-4d82bb275916"/>
-		</Metadata>
-		<Metadata name="DataProcessor.ЛюдиВРозыске.Form.Форма" id="495e05b8-49c6-45ad-b297-dc69195da086" configVersion="13b2224903d4ee4eab139dc503d11e0c00000000"/>
-		<Metadata name="DataProcessor.ЛюдиВРозыске.Form.Форма.Form" id="495e05b8-49c6-45ad-b297-dc69195da086.0" configVersion="e2491fb9e02f924f85fe97d999d0e1cb00000000"/>
+		<Metadata name="DataProcessor.ЛучшиеНаемникиМесяца.Form.Форма" id="386b9a1a-016b-4ff8-b7f0-7e82c51bebcc" configVersion="2bb1a261e99d534b87885b80938760f200000000"/>
+		<Metadata name="DataProcessor.ЛучшиеНаемникиМесяца.Form.Форма.Form" id="386b9a1a-016b-4ff8-b7f0-7e82c51bebcc.0" configVersion="636cd1d5602c984c8a08faa877da5d9000000000"/>
 		<Metadata name="DataProcessor.СигналБедствия" id="805fda43-4e38-405a-b2de-84c59a460033" configVersion="c7e6e6cb59709841b5a6531f78d8983200000000"/>
 		<Metadata name="DataProcessor.СигналБедствия.Form.Форма" id="efe0c56b-28fe-4601-8c3c-f9f5c2278480" configVersion="50869d861fd83d4f8268aa324c72619400000000"/>
 		<Metadata name="DataProcessor.СигналБедствия.Form.Форма.Form" id="efe0c56b-28fe-4601-8c3c-f9f5c2278480.0" configVersion="d81690356c498d489515d77ad72ec54700000000"/>
